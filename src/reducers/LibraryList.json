@@ -1,0 +1,47 @@
+ [
+     {
+         "id": 0,
+         "title": "Webpack",
+         "Description": "Es un paquete de módulos JavaScript de código abierto. Está hecho principalmente para JavaScript, pero puede transformar elementos de interfaz como HTML, CSS e imágenes si se incluyen los cargadores correspondientes. [10] webpack toma módulos con dependencias y genera activos estáticos que representan esos módulos."
+     },
+     {
+        "id": 1,
+        "title": "React",
+        "Description": "O React é uma biblioteca JavaScript de código aberto com foco em criar interfaces de usuário em páginas web. É mantido pelo Facebook, Instagram, outras empresas e uma comunidade de desenvolvedores individuais."
+    },
+    {
+        "id": 2,
+        "title": "Redux",
+        "Description": "Redux é uma biblioteca JavaScript de código aberto para gerenciar o estado do aplicativo. É mais comumente usado com bibliotecas como React ou Angular para criar interfaces de usuário. Semelhante pela arquitetura Flux do Facebook, foi criado por Dan Abramov e Andrew Clark."
+    },
+    {
+        "id": 3,
+        "title": "React-Redux",
+        "Description": "React Redux es mantenido por el equipo de Redux y actualizado con las últimas API de Redux y React ."
+    },
+    {
+        "id": 4,
+        "title": "Lodash",
+        "Description": "Lodash é uma biblioteca JavaScript que fornece funções utilitárias para tarefas comuns de programação usando o paradigma de programação funcional."
+    },
+    {
+        "id": 5,
+        "title": "Redux-Thunk",
+        "Description": "Redux Thunk middleware allows you to write action creators that return a function instead of an action. The thunk can be used to delay the dispatch of an action, or to dispatch only if a certain condition is met. The inner function receives the store methods dispatch and getState as parameters."
+    },
+    {
+        "id": 6,
+        "title": "ESLint",
+        "Description": "ESLint é uma ferramenta de análise de código estática para identificar padrões problemáticos encontrados no código JavaScript. Foi criado por Nicholas C. Zakas em 2013. As regras no ESLint são configuráveis ​​e regras personalizadas podem ser definidas e carregadas."
+    },
+    {
+        "id": 7,
+        "title": "Babel",
+        "Description": "abel is a toolchain that is mainly used to convert ECMAScript 2015+ code into a backwards compatible version of JavaScript in current and older browsers or environments. "
+    },
+    {
+        "id": 8,
+        "title": "Axios",
+        "Description": "Axios é um cliente HTTP baseado em Promises para fazer requisições. Pode ser utilizado tanto no navegador quando no Node. js."
+    }
+ ]
